@@ -13,20 +13,7 @@ A multi-agent system that helps people find safe, livable apartments in Boston. 
 (Note: sign in as neha@vicinity.app password: neha12345 for viewing already bookmarked listings and get started right away. you can also create a new account to test our live features for write operations such as bookmarking new listings or adding a new route to an amenity for tracking)
 (Note: In order to view the airflow UI, The username and password is admin)
 
-**DAMG 7245 — Big Data and Intelligent Analytics**
 
-| Member | Contribution |
-|---|---|
-| Anirudh Raj (33%) | Agent graph design (LangGraph topology, intent router, guardrail), chat, search, report, and organizer agents with HITL approval flow, crime pipeline, scoring pipeline, Redis caching, MCP server, Airflow master DAG orchestration, infrastructure (GCP VM, Artifact Registry, Docker, Makefile CI/CD), Terraform IaC |
-| Minal Naranje (33%) | 311 complaints and Citizen ingestion pipelines, AWS S3 raw archival, pipeline idempotency, Slack notifications, pipeline preflight checks, data quality gate, unit and integration tests |
-| Janhavi Patil (33%) | React frontend, nginx configuration, FastAPI routers (chat, listings, users, health), Pinecone embedding sync for Reddit and Google News narratives, embedding classification logic, Pinecone semantic search integration |
-
-
-**Attestation:** WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
-
-**AI usage:** Claude Opus 4.6 alongside GitHub Copilot. Used for agent graph design, prompt engineering, pipeline orchestration patterns, test scaffolding, and documentation.
-
----
 
 ## What it does
 
